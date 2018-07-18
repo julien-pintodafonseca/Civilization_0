@@ -1,0 +1,36 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{FBC34FFE-A9B4-4317-B125-9C5976763D97}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="CIVI.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="CIVI">
+        <MSBuild Projects="CIVI.dproj"/>
+    </Target>
+    <Target Name="CIVI:Clean">
+        <MSBuild Projects="CIVI.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="CIVI:Make">
+        <MSBuild Projects="CIVI.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="CIVI"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="CIVI:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="CIVI:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
