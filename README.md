@@ -15,22 +15,22 @@ Réalisé en 2017 dans le cadre du module M1102 "Algorithme" - S1 DUT Informatiq
 ## Captures d'écran
 
 ### Menu principal
-![Menu principal](https://raw.githubusercontent.com/SkydeFR/Civilization_0/master/screenshots/menu_principal.png)
+![Menu principal](https://raw.githubusercontent.com/julien-pintodafonseca/Civilization_0/master/screenshots/menu_principal.png)
 
 ### Introduction
-![Introduction](https://raw.githubusercontent.com/SkydeFR/Civilization_0/master/screenshots/introduction.png)
+![Introduction](https://raw.githubusercontent.com/julien-pintodafonseca/Civilization_0/master/screenshots/introduction.png)
 
 ### Écran de gestion
-![Gestion](https://raw.githubusercontent.com/SkydeFR/Civilization_0/master/screenshots/gestion.png)
+![Gestion](https://raw.githubusercontent.com/julien-pintodafonseca/Civilization_0/master/screenshots/gestion.png)
 
 ### Déroulement d'un combat
-![Combat](https://raw.githubusercontent.com/SkydeFR/Civilization_0/master/screenshots/combat.png)
+![Combat](https://raw.githubusercontent.com/julien-pintodafonseca/Civilization_0/master/screenshots/combat.png)
 
 ### Menu recherche et développement
-![Recherches](https://raw.githubusercontent.com/SkydeFR/Civilization_0/master/screenshots/recherches.png)
+![Recherches](https://raw.githubusercontent.com/julien-pintodafonseca/Civilization_0/master/screenshots/recherches.png)
 
 ### Menu des finances
-![Finances](https://raw.githubusercontent.com/SkydeFR/Civilization_0/master/screenshots/finances.png)
+![Finances](https://raw.githubusercontent.com/julien-pintodafonseca/Civilization_0/master/screenshots/finances.png)
 
 ### Défaite
-![Perdu](https://raw.githubusercontent.com/SkydeFR/Civilization_0/master/screenshots/perdu.png)
+![Perdu](https://raw.githubusercontent.com/julien-pintodafonseca/Civilization_0/master/screenshots/perdu.png)
